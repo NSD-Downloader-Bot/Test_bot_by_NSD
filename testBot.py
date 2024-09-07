@@ -12,7 +12,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
         
 if __name__ == "__main__":
     
-    app = ApplicationBuilder().token("7445051215:AAFop3_6HqLEvoUscwTJ4EikENtTvlvx3K4").build()
+    app = ApplicationBuilder().token("74879856e765675565thtfhghyytyyuyuyuytyytryhe9rtierhgyewrgfeuwytfggfwgfwr7ye4r87yti5e4yr7ieyhty437534y========= Wrong").build()
 
 
     ################## Handelers 
